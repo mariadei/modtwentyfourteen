@@ -1,2 +1,3 @@
-# modtwentyfourteen
-just testing
+# twentyfourteenmod
+# just testing modification of twentyfourteen wp theme
+
